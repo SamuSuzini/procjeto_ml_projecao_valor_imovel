@@ -1,0 +1,5 @@
+.venv
+poetry*
+*.zip
+*.ipynb
+pyprojec*
